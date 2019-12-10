@@ -1,0 +1,183 @@
+[main]
+host = https://www.transifex.com
+lang_map = cmn:zh_Hans
+
+[E-Commerce.addons]
+file_filter = E-Commerce/addons/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.admin]
+file_filter = E-Commerce/admin/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.admin-javascript]
+file_filter = E-Commerce/admin/locale/<lang>/LC_MESSAGES/djangojs.po
+source_lang = en
+type = PO
+
+[E-Commerce.api]
+source_lang = en
+file_filter = E-Commerce/api/locale/<lang>/LC_MESSAGES/django.po
+type = PO
+
+[E-Commerce.campaigns]
+file_filter = E-Commerce/campaigns/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.core]
+file_filter = E-Commerce/core/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.customer-group-pricing]
+file_filter = E-Commerce/customer_group_pricing/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.discounts]
+file_filter = E-Commerce/discounts/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.gdpr]
+file_filter = E-Commerce/gdpr/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.default-importer]
+file_filter = E-Commerce/default_importer/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.default-reports]
+file_filter = E-Commerce/default_reports/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.default-tax]
+file_filter = E-Commerce/default_tax/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front]
+file_filter = E-Commerce/front/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-auth]
+file_filter = E-Commerce/front/apps/auth/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-carousel]
+file_filter = E-Commerce/front/apps/carousel/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-customer-information]
+file_filter = E-Commerce/front/apps/customer_information/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-personal-order-history]
+file_filter = E-Commerce/front/apps/personal_order_history/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-saved-carts]
+file_filter = E-Commerce/front/apps/saved_carts/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-recently-viewed-products]
+file_filter = E-Commerce/front/apps/recently_viewed_products/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-registration]
+file_filter = E-Commerce/front/apps/registration/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-simple-order-notification]
+file_filter = E-Commerce/front/apps/simple_order_notification/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.front-apps-simple-search]
+file_filter = E-Commerce/front/apps/simple_search/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.guide]
+file_filter = E-Commerce/guide/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.importer]
+file_filter = E-Commerce/importer/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.notify]
+file_filter = E-Commerce/notify/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.notify-javascript]
+file_filter = E-Commerce/notify/locale/<lang>/LC_MESSAGES/djangojs.po
+source_lang = en
+type = PO
+
+[E-Commerce.order-printouts]
+file_filter = E-Commerce/order_printouts/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.reports]
+file_filter = E-Commerce/reports/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.simple-cms]
+file_filter = E-Commerce/simple_cms/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.simple-supplier]
+file_filter = E-Commerce/simple_supplier/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.tasks]
+file_filter = E-Commerce/tasks/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.testing]
+file_filter = E-Commerce/testing/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.themes-classic-gray]
+file_filter = E-Commerce/themes/classic_gray/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.utils]
+file_filter = E-Commerce/utils/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.xtheme]
+file_filter = E-Commerce/xtheme/locale/<lang>/LC_MESSAGES/django.po
+source_lang = en
+type = PO
+
+[E-Commerce.xtheme-javascript]
+file_filter = E-Commerce/xtheme/locale/<lang>/LC_MESSAGES/djangojs.po
+source_lang = en
+type = PO

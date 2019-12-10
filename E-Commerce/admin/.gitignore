@@ -1,0 +1,4 @@
+node_modules
+*.map
+static/E-Commerce_admin/css/*
+static/E-Commerce_admin/js/*

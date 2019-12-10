@@ -1,0 +1,30 @@
+{
+  "name": "E-Commerce",
+  "version": "1.0.0",
+  "description": "Open Source E-Commerce",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "python setup.py build_resources",
+    "dev:test": "py.test -vvv --cov E-Commerce --cov-report html E-Commerce_tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/E-Commerceio/E-Commerce.git"
+  },
+  "keywords": [
+    "ecommerce"
+  ],
+  "author": "E-Commerce Team <E-Commerce@E-Commerce.com>",
+  "license": "OSL-3.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/E-Commerceio/E-Commerce/issues"
+  },
+  "homepage": "https://E-Commerce.com/",
+  "devDependencies": {
+    "eslint": "^1.6.0",
+    "jscs": "^2.3.0"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules
+bower_components
+generated_resources.txt
+static/E-Commerce/front/css/*.woff
+static/E-Commerce/front/css/*.woff2
+static/E-Commerce/front/css/*.eot
+static/E-Commerce/front/css/*.svg
+static/E-Commerce/front/css/*.ttf
+

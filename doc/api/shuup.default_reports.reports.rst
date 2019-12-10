@@ -1,0 +1,86 @@
+E-Commerce.default\_reports.reports package
+======================================
+
+Submodules
+----------
+
+E-Commerce.default\_reports.reports.customer\_sales module
+-----------------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.customer_sales
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.new\_customers module
+----------------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.new_customers
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.product\_total\_sales module
+-----------------------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.product_total_sales
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.refunds module
+---------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.refunds
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.sales module
+-------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.sales
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.sales\_per\_hour module
+------------------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.sales_per_hour
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.shipping module
+----------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.shipping
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.taxes module
+-------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.taxes
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+E-Commerce.default\_reports.reports.total\_sales module
+--------------------------------------------------
+
+.. automodule:: E-Commerce.default_reports.reports.total_sales
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: E-Commerce.default_reports.reports
+    :members:
+    :undoc-members:
+    :show-inheritance:

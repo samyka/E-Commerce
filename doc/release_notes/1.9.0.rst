@@ -1,0 +1,7 @@
+E-Commerce 1.9.0 Release Notes
+=========================
+
+Released on 2019-02-19 12:00pm -0800.
+
+List of changes see `Git commit log
+<https://github.com/E-Commerce/E-Commerce/commits/v1.9.0>`__.

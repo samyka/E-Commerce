@@ -1,0 +1,10 @@
+{% extends "E-Commerce/admin/base.jinja" %}
+{% from "E-Commerce/admin/macros/general.jinja" import single_section_form with context %}
+
+{% block body_class %}E-Commerce-details{% endblock %}
+{% block content %}
+    {% call single_section_form("currency_form", form) %}
+        {{ bs3.field(form.code) }}
+        {{ bs3.field(form.decimal_places) }}
+    {% endcall %}
+{% endblock %}

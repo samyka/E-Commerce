@@ -1,0 +1,5 @@
+{% if view.horizontal_template %}
+    {% extends "E-Commerce/front/checkout/_horizontal_phases.jinja" %}
+{% else %}
+    {% extends "E-Commerce/front/checkout/_vertical_phases.jinja" %}
+{% endif %}

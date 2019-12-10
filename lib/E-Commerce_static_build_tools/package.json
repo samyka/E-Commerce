@@ -1,0 +1,15 @@
+{
+  "name": "E-Commerce-static-build-tools",
+  "version": "1.0.3",
+  "description": "E-Commerce Static Build Tools",
+  "main": "index.js",
+  "author": "E-Commerce Team <E-Commerce@E-Commerce.com>",
+  "license": "OSL-3.0",
+  "keywords": [
+    "E-Commerce",
+    "build",
+    "static"
+  ],
+  "homepage": "https://www.E-Commerce.com/",
+  "repository": "https://github.com/E-Commerce/E-Commerce"
+}

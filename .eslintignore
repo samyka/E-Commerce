@@ -1,0 +1,8 @@
+**/node_modules/**/*.js
+**/bower_components/**/*.js
+E-Commerce/admin/static/**/*.js
+**/webpack.config.js
+**/gulpfile.js
+**/vendor/**.js
+E-Commerce/themes/classic_gray/static/**/*.js
+E-Commerce/xtheme/static/**/*.js

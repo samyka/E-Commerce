@@ -1,0 +1,7 @@
+E-Commerce 1.7.3 Release Notes
+=========================
+
+Released on 2018-11-27 9:45am -0800.
+
+List of changes see `Git commit log
+<https://github.com/E-Commerce/E-Commerce/commits/v1.7.3>`__.

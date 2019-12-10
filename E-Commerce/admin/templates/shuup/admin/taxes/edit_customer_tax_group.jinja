@@ -1,0 +1,9 @@
+{% extends "E-Commerce/admin/base.jinja" %}
+{% from "E-Commerce/admin/macros/general.jinja" import single_section_form with context %}
+{% from "E-Commerce/admin/macros/multilanguage.jinja" import language_dependent_content_tabs %}
+
+{% block content %}
+    {% call single_section_form("customer_tax_group_form", form) %}
+        {{ language_dependent_content_tabs(form, ["name"]) }}
+    {% endcall %}
+{% endblock %}
