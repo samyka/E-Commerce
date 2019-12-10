@@ -24,7 +24,7 @@
   },
   "homepage": "https://E-Commerce.com/",
   "devDependencies": {
-    "eslint": "^1.6.0",
+    "eslint": "^6.7.2",
     "jscs": "^2.3.0"
   }
 }
