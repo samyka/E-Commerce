@@ -42,7 +42,7 @@ jinja2==2.8.1             # via coreschema, django-jinja, E-Commerce, sphinx
 jsonfield==2.0.2          # via E-Commerce
 keyring==19.0.1           # via E-Commerce
 keyrings.alt==3.1.1       # via E-Commerce
-lxml==4.2.1               # via E-Commerce
+lxml==4.6.2               # via E-Commerce
 markdown==2.6.11          # via E-Commerce
 markupsafe==1.1.1         # via jinja2
 openapi-codec==1.3.2      # via django-rest-swagger
